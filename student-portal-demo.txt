@@ -1,0 +1,5 @@
+name: v.pradeep
+Course: BCA
+I learned 1st experiment in GitHub
+college name:kakinada sri Aditya degree college
+roll no:30
